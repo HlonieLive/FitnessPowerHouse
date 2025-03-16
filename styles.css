@@ -1,0 +1,91 @@
+/* General Styling */ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#d3c9c9;
+}
+
+/* Navigation Bar */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 50px;
+    background-color: rgb(72, 84, 92);
+    color: white;
+}
+.logo {
+    font-size: 24px;
+}
+.logo span {
+    color: cyan;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+.login-btn {
+    background-color: cyan;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+
+/* Hero Section */
+.hero {
+    background: url('coffee-background.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(22, 22, 22);
+    text-align: center;
+}
+.hero h1 {
+    font-size: 48px;
+}
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: cyan;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+/* Login Page */
+.login-container {
+    width: 350px;
+    margin: 80px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: cyan;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.forgot {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: lightskyblue;
+}
