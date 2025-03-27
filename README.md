@@ -1,6 +1,6 @@
 # FitnessPowerHouse
 
-Welcome to FitnessPowerHouse – your ultimate online destination for achieving fitness goals, staying motivated, and transforming your lifestyle! Whether you're a beginner or a seasoned athlete, FitnessPowerHouse is designed to empower you with the tools, resources, and support you need to succeed.
+Welcome to FitnessPowerHouse your ultimate online destination for achieving fitness goals, staying motivated, and transforming your lifestyle! Whether you're a beginner or a seasoned athlete, FitnessPowerHouse is designed to empower you with the tools, resources, and support you need to succeed.
 
 Table of Contents
 About FitnessPowerHouse
@@ -59,8 +59,8 @@ Contact Us
 Have questions, feedback, or suggestions? We'd love to hear from you!
 
 Email : support@fitnesspowerhouse.com
-Phone : +1 (800) 123-4567
-Address : 123 Fitness Lane, Power City, USA
+Phone : -
+Address : -
 You can also reach out via our social media channels:
 
 Facebook: @FitnessPowerHouse
