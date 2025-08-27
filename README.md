@@ -4,7 +4,7 @@ Welcome to FitnessPowerHouse your ultimate online destination for achieving fitn
 
 FitnessPowerHouse is a modern gym and fitness platform that integrates AI to enhance workout experiences, provide personalized fitness plans, and assist users with an AI-powered chatbot. The goal is to make fitness accessible, efficient, and engaging for all users.
 
-Key Features
+## Key Features
 
 ✅ AI-Powered Workout Recommendations – Personalized workout plans based on fitness levels and goals.
 
@@ -20,7 +20,7 @@ Key Features
 
 ⸻
 
-Tech Stack
+## Tech Stack
 
 Frontend (User Interface)
 	•	React.js (for dynamic UI)
