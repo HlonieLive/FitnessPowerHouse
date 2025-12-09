@@ -4,18 +4,23 @@ Welcome to FitnessPowerHouse your ultimate online destination for achieving fitn
 
 FitnessPowerHouse is a modern gym and fitness platform that integrates AI to enhance workout experiences, provide personalized fitness plans, and assist users with an AI-powered chatbot. The goal is to make fitness accessible, efficient, and engaging for all users.
 
-Key Features
+## Key Features
 
 ✅ AI-Powered Workout Recommendations – Personalized workout plans based on fitness levels and goals.
+
 ✅ Smart Diet & Nutrition Guide – AI-generated meal plans for users.
+
 ✅ Pose Detection & Form Correction – AI analyzes workout form and provides real-time feedback.
-✅ AI Chatbot – Assists with workout guidance, fitness tips, and general queries.
+
+✅ AI Chatbot – Assists with workout guidance, fitness tips, and general queries
+
 ✅ Progress Tracking & Analytics – AI predicts progress and provides reports.
+
 ✅ Gym Membership & Subscription Management – Users can manage their membership plans.
 
 ⸻
 
-Tech Stack
+## Tech Stack
 
 Frontend (User Interface)
 	•	React.js (for dynamic UI)
@@ -34,14 +39,15 @@ AI/ML Features
 
 ## Project Structure
 
-FitnessPowerHouse/
-├── backend/
-├── frontend/
-├── ai_models/
-├── database/
-├── docs/
-├── .gitignore
-└── README.md
+	FitnessPowerHouse/
+	
+	├── backend/
+	├── frontend/
+	├── ai_models/
+	├── database/
+	├── docs/
+	├── .gitignore
+	└── README.md
 
 See the LICENSE file for more details.
 
